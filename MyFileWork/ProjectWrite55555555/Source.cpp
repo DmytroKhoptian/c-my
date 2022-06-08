@@ -27,6 +27,6 @@ int main()
 	string s = "Dima";
 
 	fileOut << d <<endl<< i << endl << s << endl ;
-	cout << "dfbgsg";
+	cout << "";
 	return 0;
 }
