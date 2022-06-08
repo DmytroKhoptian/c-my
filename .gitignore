@@ -5,7 +5,7 @@
 ### C++ ###
 # Prerequisites
 *.d
-*.VC.db
+*Browse.VC.db
 # Compiled Object files
 *.slo
 *.lo
