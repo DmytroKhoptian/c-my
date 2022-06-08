@@ -20,7 +20,7 @@ struct Student
 int main()
 {
 	Student student1 = { "Vova", 28 };
-	Student student2 = { "Vasia", 122 };
+	Student student2 = { "Vasia", 1221 };
 
 	string filename = "E:\\MEGA\\Основы С++\\17Файлы\\MyFileWork\\ProjectStructWRITE66666\\struct.txt";
 
