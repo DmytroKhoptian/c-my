@@ -1,0 +1,6 @@
+﻿  Source.cpp
+E:\MEGA\Основы С++\17Файлы\MyFileWork\Project3Struct\Source.cpp(25,5): warning C4474: "fscanf_s" : для строки формата передано слишком много аргументов
+E:\MEGA\Основы С++\17Файлы\MyFileWork\Project3Struct\Source.cpp(25,5): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+E:\MEGA\Основы С++\17Файлы\MyFileWork\Project3Struct\Source.cpp(27,5): warning C4474: "fscanf_s" : для строки формата передано слишком много аргументов
+E:\MEGA\Основы С++\17Файлы\MyFileWork\Project3Struct\Source.cpp(27,5): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+  Project3Struct.vcxproj -> E:\MEGA\Основы С++\17Файлы\MyFileWork\Debug\ProjectStruct3.exe

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\MEGA\Основы С++\17Файлы\MyFileWork\ProjectIfSream\Source.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ProjectIfSream.vcxproj -> E:\MEGA\Основы С++\17Файлы\MyFileWork\Debug\ProjectIfSream6.exe

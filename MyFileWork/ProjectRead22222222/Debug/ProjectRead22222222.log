@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\MEGA\Основы С++\17Файлы\MyFileWork\ProjectRead22222222\Source.cpp(32,4): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  ProjectRead22222222.vcxproj -> E:\MEGA\Основы С++\17Файлы\MyFileWork\Debug\ProjectREAD22222222.exe

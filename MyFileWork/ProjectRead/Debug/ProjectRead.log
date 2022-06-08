@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (ProjectReadGOSHA1111.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source.cpp
+E:\MEGA\Основы С++\17Файлы\MyFileWork\ProjectRead\Source.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ProjectRead.vcxproj -> E:\MEGA\Основы С++\17Файлы\MyFileWork\Debug\ProjectWrite1111111.exe
